@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- 🎯 Working with **Python, C#, Java , Rust, C/C++, Web Development**
+- 🎯 Working with **Python, C# , Rust, Zig, C/C++, Web Development**
 - 🤝 I’m open to **collaborations on open-source projects**
 ---
 
