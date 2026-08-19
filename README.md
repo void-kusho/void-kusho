@@ -22,9 +22,20 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,zig,csharp,lua,neovim,git,docker" alt="Tech stack" /><br/>
+  <img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Zig-%23F7A41D?style=for-the-badge&logo=zig&logoColor=white" alt="Zig" />
+  <img src="https://img.shields.io/badge/C%23-%23512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Helix-%23281733?style=for-the-badge&logo=helix&logoColor=white" alt="Helix" />
+  <img src="https://img.shields.io/badge/Neovim-%2357A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ## 📦 Featured Work
