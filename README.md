@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/Repositories-5-%2324292F?style=for-the-badge" alt="Repositories" />
   <img src="https://img.shields.io/badge/Followers-14-%2357606A?style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/badge/Contributions-3453-%23BF8700?style=for-the-badge" alt="Contributions" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=void-kusho.void-kusho" alt="Visitors" />
 </p>
 
 <p align="center">
