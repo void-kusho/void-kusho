@@ -6,13 +6,13 @@
 
 ```text
 ┌─ void@void-kusho ───────────────────────────────────┐
-│ $ whoami                                            │
+│ % whoami                                            │
 │ void -- Rust + Python developer,                    │
 │         Linux lover, always learning,               │
 │         always building something new               │
-│ $ uname -a                                          │
+│ % uname -a                                          │
 │ Linux void-kusho 6.12 x86_64 GNU/Linux (Artix)      │
-│ $ echo $EDITOR                                      │
+│ % editor                                            │
 │ helix -- because modal editing deserves speed       │
 └─────────────────────────────────────────────────────┘
 ```
@@ -31,7 +31,9 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,zig,csharp,lua,linux,helix,neovim,git,docker" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=rust,python,c,cpp,zig,csharp,lua,neovim,git,docker" alt="Tech stack" /><br/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Helix-%23281733?style=for-the-badge&logo=helix&logoColor=white" alt="Helix" />
 </p>
 
 ## 📦 Featured Work
@@ -46,7 +48,9 @@
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=void-kusho&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://img.shields.io/badge/Repositories-5-%2324292F?style=for-the-badge" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Followers-14-%2357606A?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/badge/Contributions-3453-%23BF8700?style=for-the-badge" alt="Contributions" />
 </p>
 
 **Top languages in my repos:**
