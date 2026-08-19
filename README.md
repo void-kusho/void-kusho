@@ -1,21 +1,12 @@
 <h1 align="center">👋 Hello, I'm void</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Rust+developer;Python+developer;Linux+enthusiast;Always+learning,+always+building&font=Fira+Code&size=22&duration=2500&pause=900&color=E34F26&center=true&vCenter=true&width=450&height=50" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Rust+developer;Python+developer;Linux+enthusiast;Always+learning,+always+building&font=Fira+Code&size=22&duration=2500&pause=900&color=E34F26&center=true&vCenter=true&width=550&height=50" alt="Typing SVG" />
 </p>
 
-```text
-┌─ void@void-kusho ───────────────────────────────────┐
-│ % whoami                                            │
-│ void -- Rust + Python developer,                    │
-│         Linux lover, always learning,               │
-│         always building something new               │
-│ % uname -a                                          │
-│ Linux void-kusho 6.12 x86_64 GNU/Linux (Artix)      │
-│ % editor                                            │
-│ helix -- because modal editing deserves speed       │
-└─────────────────────────────────────────────────────┘
-```
+<p align="center">
+  <img src="img/terminal.svg" width="560" alt="terminal" />
+</p>
 
 ---
 
@@ -51,6 +42,11 @@
   <img src="https://img.shields.io/badge/Repositories-5-%2324292F?style=for-the-badge" alt="Repositories" />
   <img src="https://img.shields.io/badge/Followers-14-%2357606A?style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/badge/Contributions-3453-%23BF8700?style=for-the-badge" alt="Contributions" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=void-kusho.void-kusho" alt="Visitors" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=void-kusho&theme=react-dark&bg_color=0d1117&hide_border=true&area=true" alt="Activity graph" />
 </p>
 
 **Top languages in my repos:**
