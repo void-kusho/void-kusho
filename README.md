@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm void</h1>
+<h1 align="center">👋 Hello, I'm void*</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Rust+developer;Python+developer;Linux+enthusiast;Always+learning,+always+building&font=Fira+Code&size=22&duration=2500&pause=900&color=E34F26&center=true&vCenter=true&width=550&height=50" alt="Typing SVG" />
