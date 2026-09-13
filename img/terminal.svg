@@ -13,7 +13,7 @@
 <text x="30" y="92" fill="#c9d1d9" font-family="Fira Code,Conductor,monospace" font-size="14">void -- Rust + Python developer, Linux lover,</text>
 <text x="30" y="118" fill="#c9d1d9" font-family="Fira Code,Conductor,monospace" font-size="14">        always learning, always building something new</text>
 <text x="30" y="144" fill="#3fb950" font-family="Fira Code,Conductor,monospace" font-size="14">% uname -a</text>
-<text x="30" y="170" fill="#c9d1d9" font-family="Fira Code,Conductor,monospace" font-size="14">Linux void-kusho 6.12 x86_64 GNU/Linux (Artix)</text>
+<text x="30" y="170" fill="#c9d1d9" font-family="Fira Code,Conductor,monospace" font-size="14">Linux void-kusho nixos-btw</text>
 <text x="30" y="196" fill="#3fb950" font-family="Fira Code,Conductor,monospace" font-size="14">% editor</text>
 <text x="30" y="222" fill="#c9d1d9" font-family="Fira Code,Conductor,monospace" font-size="14">helix -- because modal editing deserves speed<tspan class="cur" fill="#8b949e">&#9612;</tspan></text>
 </svg>
