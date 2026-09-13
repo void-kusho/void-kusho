@@ -8,7 +8,6 @@
   <img src="img/terminal.svg" width="560" alt="terminal" />
 </p>
 
----
 
 ## 🚀 What I do
 
