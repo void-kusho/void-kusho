@@ -39,16 +39,8 @@ the patched `dwm` binary, is declared in a flake and reproducible from scratch.
 
 <img src="img/titles/stats.svg" width="860" alt="cat /proc/void/stats" />
 
-<p align="center">
-  <img height="165" alt="stats"
-       src="https://github-readme-stats.vercel.app/api?username=void-kusho&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5&icon_color=7aa2f7" />
-  <img height="165" alt="top languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=void-kusho&layout=compact&langs_count=6&hide_border=true&bg_color=1a1b26&title_color=7aa2f7&text_color=c0caf5" />
-</p>
+<img src="img/stats.svg" width="860" alt="repositories, followers, contributions, top languages" />
 
-<p align="center">
-  <img width="860" alt="contribution activity"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=void-kusho&bg_color=1a1b26&color=c0caf5&title_color=7aa2f7&line=7aa2f7&point=c0caf5&area_color=7aa2f7&area=true&hide_border=true&radius=10&custom_title=contribution%20activity" />
-</p>
+<img src="img/activity.svg" width="860" alt="contribution activity over the last 52 weeks" />
 
 <img src="img/footer.svg" width="860" alt="exit" />
