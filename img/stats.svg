@@ -5,28 +5,28 @@
 <text class="m" x="28" y="78" fill="#565f89" font-size="11" letter-spacing="1.1">repositories</text>
 <text class="m" x="236" y="58" fill="#7aa2f7" font-size="30">14</text>
 <text class="m" x="236" y="78" fill="#565f89" font-size="11" letter-spacing="1.1">followers</text>
-<text class="m" x="444" y="58" fill="#7aa2f7" font-size="30">4152</text>
+<text class="m" x="444" y="58" fill="#7aa2f7" font-size="30">4153</text>
 <text class="m" x="444" y="78" fill="#565f89" font-size="11" letter-spacing="1.1">contributions</text>
 <text class="m" x="652" y="58" fill="#7aa2f7" font-size="30">0</text>
 <text class="m" x="652" y="78" fill="#565f89" font-size="11" letter-spacing="1.1">stars</text>
 <line x1="28" y1="100" x2="832" y2="100" stroke="#292e42" stroke-width="1"/>
 <text class="m" x="28" y="126" fill="#565f89" font-size="11" letter-spacing="1.2">TOP LANGUAGES</text>
-<rect x="28.0" y="140" width="538.8" height="14" rx="2" fill="#7aa2f7" opacity="1.0"/>
-<rect x="568.8" y="140" width="237.2" height="14" rx="2" fill="#7aa2f7" opacity="0.86"/>
-<rect x="808.0" y="140" width="6.9" height="14" rx="2" fill="#7aa2f7" opacity="0.72"/>
-<rect x="816.9" y="140" width="3.9" height="14" rx="2" fill="#7aa2f7" opacity="0.58"/>
-<rect x="822.8" y="140" width="3.7" height="14" rx="2" fill="#7aa2f7" opacity="0.44"/>
-<rect x="828.5" y="140" width="1.5" height="14" rx="2" fill="#7aa2f7" opacity="0.3"/>
+<rect x="28.0" y="140" width="532.8" height="14" rx="2" fill="#7aa2f7" opacity="1.0"/>
+<rect x="562.8" y="140" width="234.6" height="14" rx="2" fill="#7aa2f7" opacity="0.86"/>
+<rect x="799.3" y="140" width="6.9" height="14" rx="2" fill="#7aa2f7" opacity="0.72"/>
+<rect x="808.2" y="140" width="6.8" height="14" rx="2" fill="#7aa2f7" opacity="0.58"/>
+<rect x="817.1" y="140" width="3.9" height="14" rx="2" fill="#7aa2f7" opacity="0.44"/>
+<rect x="822.9" y="140" width="3.6" height="14" rx="2" fill="#7aa2f7" opacity="0.3"/>
 <rect x="28" y="173" width="9" height="9" rx="2" fill="#7aa2f7" opacity="1.0"/>
-<text class="m" x="44" y="182" fill="#c0caf5" font-size="12">C<tspan fill="#565f89">  67.3%</tspan></text>
+<text class="m" x="44" y="182" fill="#c0caf5" font-size="12">C<tspan fill="#565f89">  66.5%</tspan></text>
 <rect x="300" y="173" width="9" height="9" rx="2" fill="#7aa2f7" opacity="0.86"/>
-<text class="m" x="316" y="182" fill="#c0caf5" font-size="12">Rust<tspan fill="#565f89">  29.8%</tspan></text>
+<text class="m" x="316" y="182" fill="#c0caf5" font-size="12">Rust<tspan fill="#565f89">  29.4%</tspan></text>
 <rect x="572" y="173" width="9" height="9" rx="2" fill="#7aa2f7" opacity="0.72"/>
-<text class="m" x="588" y="182" fill="#c0caf5" font-size="12">Shell<tspan fill="#565f89">  1.1%</tspan></text>
+<text class="m" x="588" y="182" fill="#c0caf5" font-size="12">Python<tspan fill="#565f89">  1.1%</tspan></text>
 <rect x="28" y="193" width="9" height="9" rx="2" fill="#7aa2f7" opacity="0.58"/>
-<text class="m" x="44" y="202" fill="#c0caf5" font-size="12">JavaScript<tspan fill="#565f89">  0.7%</tspan></text>
+<text class="m" x="44" y="202" fill="#c0caf5" font-size="12">Shell<tspan fill="#565f89">  1.1%</tspan></text>
 <rect x="300" y="193" width="9" height="9" rx="2" fill="#7aa2f7" opacity="0.44"/>
-<text class="m" x="316" y="202" fill="#c0caf5" font-size="12">CSS<tspan fill="#565f89">  0.7%</tspan></text>
+<text class="m" x="316" y="202" fill="#c0caf5" font-size="12">JavaScript<tspan fill="#565f89">  0.7%</tspan></text>
 <rect x="572" y="193" width="9" height="9" rx="2" fill="#7aa2f7" opacity="0.3"/>
-<text class="m" x="588" y="202" fill="#c0caf5" font-size="12">HTML<tspan fill="#565f89">  0.4%</tspan></text>
+<text class="m" x="588" y="202" fill="#c0caf5" font-size="12">CSS<tspan fill="#565f89">  0.7%</tspan></text>
 </svg>
