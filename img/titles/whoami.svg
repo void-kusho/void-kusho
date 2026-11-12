@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 52" width="860" height="52" role="img" aria-label="whoami">
+  <style>
+    .mono { font-family: "Fira Code","JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:15px; }
+    .ps  { fill:#7aa2f7 }
+    .dim { fill:#565f89 }
+    .fg  { fill:#c0caf5 }
+  </style>
+  <defs><clipPath id="r"><rect width="860" height="52" rx="8"/></clipPath></defs>
+  <g clip-path="url(#r)">
+    <rect width="860" height="52" fill="#1a1b26"/>
+    <rect width="3" height="52" fill="#7aa2f7"/>
+  </g>
+  <text class="mono" x="26" y="32"><tspan class="ps">void@nixos-btw</tspan><tspan class="dim"> ~ % </tspan><tspan class="fg">whoami</tspan></text>
+</svg>

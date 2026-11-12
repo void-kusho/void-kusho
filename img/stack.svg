@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 196" width="860" height="196" role="img" aria-label="tech stack">
+  <style>
+    .mono { font-family: "Fira Code","JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; }
+    .key  { fill:#7aa2f7; font-size:13px; letter-spacing:1.2px }
+    .val  { fill:#c0caf5; font-size:14px }
+    .sep  { fill:#565f89; font-size:14px }
+  </style>
+  <rect width="860" height="196" rx="10" fill="#1a1b26" stroke="#292e42" stroke-width="1"/>
+
+  <text class="mono key" x="28"  y="46">LANGUAGES</text>
+  <text class="mono"     x="170" y="46"><tspan class="val">rust</tspan><tspan class="sep"> · </tspan><tspan class="val">c</tspan><tspan class="sep"> · </tspan><tspan class="val">nix</tspan><tspan class="sep"> · </tspan><tspan class="val">python</tspan><tspan class="sep"> · </tspan><tspan class="val">elisp</tspan><tspan class="sep"> · </tspan><tspan class="val">c++</tspan><tspan class="sep"> · </tspan><tspan class="val">lua</tspan><tspan class="sep"> · </tspan><tspan class="val">zig</tspan></text>
+  <line x1="28" y1="64" x2="832" y2="64" stroke="#292e42" stroke-width="1"/>
+
+  <text class="mono key" x="28"  y="92">SYSTEM</text>
+  <text class="mono"     x="170" y="92"><tspan class="val">nixos</tspan><tspan class="sep"> · </tspan><tspan class="val">flakes</tspan><tspan class="sep"> · </tspan><tspan class="val">dwm</tspan><tspan class="sep"> · </tspan><tspan class="val">st</tspan><tspan class="sep"> · </tspan><tspan class="val">dmenu</tspan><tspan class="sep"> · </tspan><tspan class="val">slstatus</tspan><tspan class="sep"> · </tspan><tspan class="val">bash</tspan></text>
+  <line x1="28" y1="110" x2="832" y2="110" stroke="#292e42" stroke-width="1"/>
+
+  <text class="mono key" x="28"  y="138">SECURITY</text>
+  <text class="mono"     x="170" y="138"><tspan class="val">packet analysis</tspan><tspan class="sep"> · </tspan><tspan class="val">static analysis</tspan><tspan class="sep"> · </tspan><tspan class="val">supply chain</tspan></text>
+  <line x1="28" y1="156" x2="832" y2="156" stroke="#292e42" stroke-width="1"/>
+
+  <text class="mono key" x="28"  y="180">TOOLING</text>
+  <text class="mono"     x="170" y="180"><tspan class="val">doom emacs</tspan><tspan class="sep"> · </tspan><tspan class="val">git</tspan><tspan class="sep"> · </tspan><tspan class="val">gdb</tspan><tspan class="sep"> · </tspan><tspan class="val">wireshark</tspan><tspan class="sep"> · </tspan><tspan class="val">tmux</tspan><tspan class="sep"> · </tspan><tspan class="val">docker</tspan></text>
+</svg>

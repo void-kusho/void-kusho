@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 92" width="860" height="92" role="img" aria-label="exit">
+  <style>
+    .mono { font-family: "Fira Code","JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:14px; }
+    .ps  { fill:#7aa2f7 } .dim { fill:#565f89 } .fg { fill:#c0caf5 }
+  </style>
+  <rect width="860" height="92" rx="10" fill="#16161e" stroke="#292e42" stroke-width="1"/>
+  <text class="mono" x="28" y="38"><tspan class="ps">void@nixos-btw</tspan><tspan class="dim"> ~ % </tspan><tspan class="fg">exit</tspan></text>
+  <text class="mono dim" x="28" y="66"># a void* can point to anything. so can i.</text>
+</svg>
